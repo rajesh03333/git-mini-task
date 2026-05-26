@@ -1,0 +1,5 @@
+PRODUCT NAME        Price       Date
+Laptop              12000       24-05-2026
+PowerBank           1000        22-05-2026
+Mobile              9000        23-05-2026
+Earbuds             800         21-05-2026
