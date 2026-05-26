@@ -6,3 +6,5 @@ Earbuds             800         21-05-2026
 Bottle              250         23-05-2026
 Monitor             15000       25-05-2026
 Adapter             1200        29-05-2026
+Charger             450         30-05-2026
+Micropone           5000        12-06-2026
